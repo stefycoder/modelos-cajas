@@ -1,0 +1,17 @@
+.padre{
+	background-color: #F9CB9C;
+	height: 100px;
+	border: 8px solid #9900FF;
+}
+.hijo{
+	background-color: white;
+	height: 20px;
+	border: 2px dashed black;
+	margin: 20px 20px 50px 60px;
+	text-align: center;
+}
+p{
+	text-align: center;
+	margin-top: 1px;
+	margin-bottom: 15px;
+}
